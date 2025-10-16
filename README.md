@@ -1,1 +1,0 @@
-# Practical-7-A-Write-a-program-in-JavaScript-to-preform-arithmetic-operations
